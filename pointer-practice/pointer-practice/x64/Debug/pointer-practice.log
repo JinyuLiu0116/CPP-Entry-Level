@@ -1,0 +1,3 @@
+﻿  pointer-practice.cpp
+D:\Code\pointer-practice\pointer-practice.cpp(144,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  pointer-practice.vcxproj -> D:\Code\pointer-practice\x64\Debug\pointer-practice.exe
