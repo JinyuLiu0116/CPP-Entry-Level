@@ -1,0 +1,3 @@
+﻿  0410practice.cpp
+D:\Code\0410practice\0410practice.cpp(76,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  0410practice.vcxproj -> D:\Code\0410practice\x64\Debug\0410practice.exe
