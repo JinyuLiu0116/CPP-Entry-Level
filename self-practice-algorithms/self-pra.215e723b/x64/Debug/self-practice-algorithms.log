@@ -1,0 +1,4 @@
+﻿  self-practice-algorithms.cpp
+D:\Users\ojin0\source\repos\self-practice-algorithms\self-practice-algorithms.cpp(121,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Users\ojin0\source\repos\self-practice-algorithms\self-practice-algorithms.cpp(135,6): warning C4101: 'temp': unreferenced local variable
+  self-practice-algorithms.vcxproj -> D:\Users\ojin0\source\repos\self-practice-algorithms\x64\Debug\self-practice-algorithms.exe

@@ -1,0 +1,4 @@
+﻿  practicing-array.cpp
+D:\Users\ojin0\source\repos\practicing-array\practicing-array.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Users\ojin0\source\repos\practicing-array\practicing-array.cpp(96,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  practicing-array.vcxproj -> D:\Users\ojin0\source\repos\practicing-array\x64\Debug\practicing-array.exe
