@@ -1,0 +1,4 @@
+﻿  05082024HW.cpp
+D:\Code\05082024HW\05082024HW.cpp(19,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Code\05082024HW\05082024HW.cpp(61,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  05082024HW.vcxproj -> D:\Code\05082024HW\x64\Debug\05082024HW.exe

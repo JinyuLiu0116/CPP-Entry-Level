@@ -1,0 +1,4 @@
+﻿  05082024classExercise.cpp
+D:\Code\05082024classExercise\05082024classExercise.cpp(17,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Code\05082024classExercise\05082024classExercise.cpp(59,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+LINK : fatal error LNK1168: cannot open D:\Code\05082024classExercise\x64\Debug\05082024classExercise.exe for writing
