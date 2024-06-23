@@ -1,49 +1,54 @@
 #include <iostream>
 using namespace std;
 
-class Pokemon {
-	string name;
-	string type;
-	int hp;
-	int level;
-	double attack;
-	double defend;
-	double speed;
-public:
-	Pokemon(string name, string type, int hp, int level, double attack, double defend, double speed)
-	{
-		this->name = name;
-		this->type = type;
-		this->hp = hp;
-		this->level = level;
-		this->attack = attack;
-		this->defend = defend;
-		this->speed = speed;
-	}
-
-	void displyInfo();
-};
-class ElectricalType :public Pokemon
+class Rectangle
 {
+	double Length;
+	double Width;
 public:
-	ElectricalType(string name, string type, int hp, int level, double attack, double defend, double speed) 
-		:Pokemon(name, type, hp, level, attack, defend, speed)
+	Rectangle()
 	{
-
+		Length = 0;
+		Width = 0;
+	}
+	Rectangle(double length, double width) 
+	{
+		Length = length;
+		Width = width;
+	}
+	double getLength()
+	{
+		return this->Length;
+	}
+	double getWidth()
+	{
+		return this->Width;
+	}
+	void setLength(double x)
+	{
+		this->Length = x;
+	}
+	void setWidth(double y)
+	{
+		this->Width = y;
+	}
+	double calculateAre() {
+		return this->Length * this->Width;
+	}
+	void displyInfo()
+	{
+		cout << "The length is " << this->Length << '\n';
+		cout << "The width is " << this->Width << '\n';
+		cout << "The area of the rectangle is " << calculateAre() << '\n';
 	}
 };
 int main()
 {
-	ElectricalType pokemon1("Pikachu", "electrical", 100, 1, 8, 6, 11);
-	pokemon1.displyInfo();
-}
-void Pokemon::displyInfo()
-{
-	cout << "Pokemon's name: " << name << '\n';
-	cout << "Pokemon's type: " << type << '\n';
-	cout << "Pokemon's hp: " << hp << '\n';
-	cout << "Pokemon's level: " << level << '\n';
-	cout << "Pokemon's attack: " << attack << '\n';
-	cout << "Pokemon's defend: " << defend << '\n';
-	cout << "Pokemon's speed: " << speed << '\n';
+	Rectangle rectangle(8.5, 3.5);
+	//cout << rectangle.getLength();
+	//cout << endl;
+	//rectangle.setWidth(5.0);
+	//cout << rectangle.getWidth();
+	rectangle.calculateAre();
+	rectangle.displyInfo();
 }
