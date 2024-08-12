@@ -1,3 +1,0 @@
-﻿  string-Class.cpp
-D:\Code\string-Class\string-Class.cpp(74,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  string-Class.vcxproj -> D:\Code\string-Class\x64\Debug\string-Class.exe
