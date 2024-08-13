@@ -78,7 +78,7 @@ int main()
 }
 */
 
-//•	Print all numbers between start and stop which are "Odd" "Multiples of 3" "Even and multiples of 5"
+//â€¢	Print all numbers between start and stop which are "Odd" "Multiples of 3" "Even and multiples of 5"
 #include <iostream>
 using namespace std;
 
