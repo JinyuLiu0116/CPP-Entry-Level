@@ -1,3 +1,0 @@
-﻿  0412HW.cpp
-D:\Code\0412HW\0412HW.cpp(26,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-LINK : fatal error LNK1168: cannot open D:\Code\0412HW\x64\Debug\0412HW.exe for writing
