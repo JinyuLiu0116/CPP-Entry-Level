@@ -74,7 +74,7 @@
 //        return false;
 //    }
 //}
-//•	Write the program to get input from user and print numbers from 1 till the input.
+//â€¢	Write the program to get input from user and print numbers from 1 till the input.
 //#include <iostream>
 //using namespace std;
 //
@@ -103,7 +103,7 @@
 //	}
 //}
 
-//•	Write a program to get start and stop values from user and print all numbers from start till stop.
+//â€¢	Write a program to get start and stop values from user and print all numbers from start till stop.
 //#include <iostream>
 //using namespace std;
 //
@@ -138,7 +138,7 @@
 //
 //}
 
-//•	Print all numbers between start and stop which are, Odd, Multiples of 3, Even and multiples of 5.
+//â€¢	Print all numbers between start and stop which are, Odd, Multiples of 3, Even and multiples of 5.
 //#include <iostream>
 //using namespace std;
 //
@@ -243,7 +243,7 @@
 //	return sum;
 //}
 
-//Write a program to print sum of the series below: Get n from the user.1 + 1 / 2 + 1 / 3 + 1 / 4 + ….1 / n
+//Write a program to print sum of the series below: Get n from the user.1 + 1 / 2 + 1 / 3 + 1 / 4 + â€¦.1 / n
 //#include <iostream>
 //using namespace std;
 //
@@ -265,7 +265,7 @@
 //	return sum;
 //}
 
-//Write a program to print Fibonacci series up to n terms excluding the first 2 values0 1 1 2 3 5 8…..
+//Write a program to print Fibonacci series up to n terms excluding the first 2 values0 1 1 2 3 5 8â€¦..
 //#include <iostream>
 //using namespace std;
 //
