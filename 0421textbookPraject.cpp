@@ -1,4 +1,4 @@
-//A liter is 0.264179 gallons. Write a program that will read in the number of liters of gasoline consumed by the user’s car and the number of miles traveled by the car and will then 
+//A liter is 0.264179 gallons. Write a program that will read in the number of liters of gasoline consumed by the userâ€™s car and the number of miles traveled by the car and will then 
 //output the number of miles per gallon the car delivered.Your program should allow the
 //user to repeat this calculation as often as the user wishes.Define a function to compute the
 //Programming Projects 131
