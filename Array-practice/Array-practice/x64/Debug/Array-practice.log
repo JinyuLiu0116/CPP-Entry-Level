@@ -1,3 +1,0 @@
-﻿  Array-practice.cpp
-D:\C++\Array-practice\Array-practice.cpp(36,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Array-practice.vcxproj -> D:\C++\Array-practice\x64\Debug\Array-practice.exe
