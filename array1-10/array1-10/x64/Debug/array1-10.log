@@ -1,3 +1,0 @@
-﻿  array1-10.cpp
-D:\Users\ojin0\source\repos\array1-10\array1-10.cpp(102,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  array1-10.vcxproj -> D:\Users\ojin0\source\repos\array1-10\x64\Debug\array1-10.exe
