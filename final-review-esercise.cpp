@@ -87,7 +87,7 @@ void patternC(int num)
 //29	Write a function to
 //a.print numbers counting down :
 //b.Fibonacci series
-//30	Char * str = “Hello”;
+//30	Char * str = â€œHelloâ€;
 //C++ allocates exactly seven bytes for the above declaration
 //31	The character \0 is C++ notation for a null character.
 //32	A c++ string terminates with a null byte, which indicates end of array.
@@ -97,18 +97,18 @@ void patternC(int num)
 //36	An input stream is a stream of data flowing from your program, either to a file, or to the keyboard.
 //37	Write the output
 //Char s[80];
-//Strcpy(s, ”one”);
-//Strcat(s, ”two”);
-//Strcat(s, ”three”);
+//Strcpy(s, â€oneâ€);
+//Strcat(s, â€twoâ€);
+//Strcat(s, â€threeâ€);
 //Cout << s;
 //
-//38	Write a complete program with necessary #include directives to copy the C - string constant “Hello” into the string variable aString, declared below.
+//38	Write a complete program with necessary #include directives to copy the C - string constant â€œHelloâ€ into the string variable aString, declared below.
 //char aString[10];
 //39	What is the problem(if any) with this code ?
-//char s1[20] = “How you been ? ”;
-//strcat(s1, “Fine as wine”);
+//char s1[20] = â€œHow you been ? â€;
+//strcat(s1, â€œFine as wineâ€);
 //40	Write a short C++ code fragment that reads a line of text and prints the line with all uppercase letters.
-//41	Write a simple program to print all characters in a word separated by comma(‘, ’).
+//41	Write a simple program to print all characters in a word separated by comma(â€˜, â€™).
 //42	What is a linear search ? Write a code snippet to find for a data in an array.
 //43	Write the algorithm to sort elements of an array in descending order.
 //44	What is private and public ? How to you access private variables and functions.
