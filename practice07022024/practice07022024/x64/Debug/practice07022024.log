@@ -1,4 +1,0 @@
-﻿  practice07022024.cpp
-D:\C++\practice07022024\practice07022024.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-D:\C++\practice07022024\practice07022024.cpp(10,11): warning C4101: 'check': unreferenced local variable
-  practice07022024.vcxproj -> D:\C++\practice07022024\x64\Debug\practice07022024.exe
