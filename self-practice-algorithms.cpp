@@ -109,7 +109,7 @@ int getAbsSum(int array[], int size)
 	return sum;
 }*/
 
-//array-mid-Odd Up, Even Down — N Times
+//array-mid-Odd Up, Even Down â€” N Times
 #include <iostream>
 using namespace std;
 const int SIZE = 3;
