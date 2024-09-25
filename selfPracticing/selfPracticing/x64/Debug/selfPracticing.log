@@ -1,3 +1,0 @@
-﻿  selfPracticing.cpp
-D:\Users\ojin0\source\repos\selfPracticing\selfPracticing.cpp(43,11): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-  selfPracticing.vcxproj -> D:\Users\ojin0\source\repos\selfPracticing\x64\Debug\selfPracticing.exe
