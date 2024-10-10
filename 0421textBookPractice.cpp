@@ -53,7 +53,14 @@ int main()
 		cin >> price2;
 
 		cout << "The inflation is " << inflation(price1, price2) * 100 << "%" << endl;
-		cout << "Do you want to repect? (y/n): ";
-		cin >> repect;
-	} while (repect == 'y' || repect == 'Y');
+		while(true){
+			cout << "Do you want to repect? (y/n): ";
+			cin >> repect;
+			if(tolower(repect) != 'y' || tolower(repect) != 'n'){
+				cout << "Invalid input" << endl;
+				continue;
+			}
+			break;
+		}
+	} while (repect == 'y');
 }
