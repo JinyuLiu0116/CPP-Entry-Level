@@ -37,10 +37,8 @@ int main()
 
 #include <iostream>
 using namespace std;
-double inflation(double price1, double price2) {
-	double rate;
-	rate = (price2 - price1) / price1;
-	return rate;
+double inflation(const double& price1, const double& price2) {
+	return (price2 - price1) / price1;
 }
 
 int main()
