@@ -10,5 +10,10 @@ int main(){
     int inputNum;
     std::cout <<"Enter your temperature number:";
     std::cin >> inputNum;
+    if(inputNum < TENSENO || inputNum > 100){
+      std::cout <<"Temperature: " << inputNum << " out of range" << std::endl;
+      contune;
+    }
+    
   }
 }
