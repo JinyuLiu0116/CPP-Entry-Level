@@ -24,6 +24,7 @@ int main(){
       counter++;
       break;
     }
-    
   }
+  double averageTemp = double(sumOfTemp + TENSENO)/counter;
+  std::cout <<"Then everage of temperature is:" << averageTemp << std::endl;
 }
